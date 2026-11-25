@@ -1,0 +1,6 @@
+{
+  "name": "ScholarQA — Rule-Based Scholarship Question Answering",
+  "description": "Deterministic rule-based document question answering system for college scholarship guidelines with live knowledge base parsing, inference tracing, and benchmark evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
